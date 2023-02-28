@@ -1,0 +1,32 @@
+<!-- 
+    DOM - Document Object Model
+    É uma interface que representa documentos HTML e XML através de objetos. Com ela é possível manipular a estrutura, estilo e conteúdo destes documentos. 
+    window.document - representa o documento HTML
+    window.document.body - representa o corpo do documento HTML
+    window.document.head - representa o cabeçalho do documento HTML
+    window.document.title - representa o título do documento HTML
+    window.document.URL - representa a URL do documento HTML
+    window.document.domain - representa o domínio do documento HTML
+    window.document.forms - representa os formulários do documento HTML
+    window.document.links - representa os links do documento HTML
+    window.document.images - representa as imagens do documento HTML
+    window.document.scripts - representa os scripts do documento HTML
+    window.document.styleSheets - representa as folhas de estilo do documento HTML
+    window.document.anchors - representa os âncoras do documento HTML
+    window.document.cookie - representa os cookies do documento HTML
+    window.document.charset - representa o conjunto de caracteres do documento HTML
+    window.document.contentType - representa o tipo de conteúdo do documento HTML
+    window.document.lastModified - representa a data de modificação do documento HTML
+    window.document.readyState - representa o estado de carregamento do documento HTML
+    window.document.designMode - representa o modo de design do documento HTML
+    window.document.compatMode - representa o modo de compatibilidade do documento HTML
+    window.document.documentMode - representa o modo de documento do documento HTML
+    window.document.doctype - representa o tipo de documento do documento HTML
+    window.document.documentElement - representa o elemento raiz do documento HTML
+    window.document.scrollingElement - representa o elemento de rolagem do documento HTML
+    window.document.activeElement - representa o elemento ativo do documento HTML
+    window.document.fullscreenElement - representa o elemento em tela cheia do documento HTML
+    window.document.pointerLockElement - representa o elemento de bloqueio de ponteiro do documento HTML
+    
+
+-->
